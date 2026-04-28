@@ -7,9 +7,9 @@ For anyone hitting the "SystemVersion.plist build version mismatch" + "An update
    
 2.	Open Terminal and run:
 
-sudo rm -rf /System/Library/AssetsV2/com_apple_MobileAsset_MacSoftwareUpdate/* 
+**"sudo rm -rf /System/Library/AssetsV2/com_apple_MobileAsset_MacSoftwareUpdate/*"**
 
-sudo rm -rf  /System/Volumes/Update/* 
+**"sudo rm -rf  /System/Volumes/Update/*"**
 
 3. ⁠Reboot in Safe Mode
 
