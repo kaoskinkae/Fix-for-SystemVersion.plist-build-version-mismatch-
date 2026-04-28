@@ -3,10 +3,12 @@
 I recently struggled but finally managed to fix after trying again and again.
 For anyone hitting the "SystemVersion.plist build version mismatch" + "An update is in progress" error in OCLP root patching:
 
-  1	Boot into safe mode (via OpenCore picker: hold Shift + Enter).
-	2	Open Terminal and run:
+1.	Boot into safe mode (via OpenCore picker: hold Shift + Enter).
+   
+2.	Open Terminal and run:
 
 sudo rm -rf /System/Library/AssetsV2/com_apple_MobileAsset_MacSoftwareUpdate/* 
+
 sudo rm -rf  /System/Volumes/Update/* 
 
 3. ⁠Reboot in Safe Mode
