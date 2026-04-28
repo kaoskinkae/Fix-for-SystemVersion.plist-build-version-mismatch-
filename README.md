@@ -21,3 +21,7 @@ Run OCPL-Plus completely and the patch will be applied correctly. Once restarted
 
   ⁃	SystemVersion.plist build version mismatch: found 12.6
 (21G115), expected 26.4.1 (25E253)
+
+
+<img width="581" height="819" alt="Captura de pantalla 2026-04-28 a las 11 26 37" src="https://github.com/user-attachments/assets/57ab9311-ef3c-49f9-90e3-cdb54dd95154" />
+
