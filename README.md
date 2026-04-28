@@ -11,7 +11,7 @@ For anyone hitting the "SystemVersion.plist build version mismatch" + "An update
 
 **"sudo rm -rf  /System/Volumes/Update/*"**
 
-3. ⁠Reboot in Safe Mode
+3. ⁠Reboot 
 
 4. ⁠Run latest OCLP → Post-Install Root Patch → Apply as usual.
    
